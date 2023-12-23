@@ -15,10 +15,10 @@ loss = 0
 
 mixer.init()
 mixer.music.load("space.ogg")
-mixer.music.set_volume(0.5)
+mixer.music.set_volume(0.6)
 mixer.music.play()
 
-volume = 0.5
+volume = 0.6
 
 def music_setter():
     
